@@ -61,7 +61,13 @@ namespace Laba6
 
         private void button3_Click(object sender, EventArgs e)
         {
-            printPreviewDialog1.ShowDialog(this);
+            //printPreviewDialog1.ShowDialog(this);
+            Form2 aForm = new Form2();
+            System.Windows.Forms.DialogResult aResult;
+            aForm.printPreviewControl1.Document = printDocument1;
+            aResult = aForm.ShowDialog();
+            if (aResult == System.Windows.Forms.DialogResult.OK)
+                printDocument1.Print();
         }
 
         private void open_file_Click(object sender, EventArgs e)
