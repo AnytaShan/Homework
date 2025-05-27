@@ -1,0 +1,9 @@
+C:\Users\Mish\source\repos\Laba5.1\Laba5.1\obj\Debug\net8.0-windows\Interop.MSTSCLib.dll
+C:\Users\Mish\source\repos\Laba5.1\Laba5.1\obj\Debug\net8.0-windows\AxInterop.MSTSCLib.dll
+C:\Users\Mish\source\repos\Laba5.1\Laba5.1\obj\Debug\net8.0-windows\Laba5.1.csproj.ResolveComReference.cache
+C:\Users\Mish\source\repos\Laba5.1\Laba5.1\obj\Debug\net8.0-windows\Laba5._1.Form1.resources
+C:\Users\Mish\source\repos\Laba5.1\Laba5.1\obj\Debug\net8.0-windows\Laba5.1.csproj.GenerateResource.cache
+C:\Users\Mish\source\repos\Laba5.1\Laba5.1\obj\Debug\net8.0-windows\Laba5.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mish\source\repos\Laba5.1\Laba5.1\obj\Debug\net8.0-windows\Laba5.1.AssemblyInfoInputs.cache
+C:\Users\Mish\source\repos\Laba5.1\Laba5.1\obj\Debug\net8.0-windows\Laba5.1.AssemblyInfo.cs
+C:\Users\Mish\source\repos\Laba5.1\Laba5.1\obj\Debug\net8.0-windows\Laba5.1.csproj.CoreCompileInputs.cache
